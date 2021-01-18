@@ -1,0 +1,171 @@
+-----results[0]--------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 7541 entries, 0 to 7540
+Data columns (total 43 columns):
+ #   Column                              Non-Null Count  Dtype  
+---  ------                              --------------  -----  
+ 0   Annual Income                       7541 non-null   float64
+ 1   Tax Liens                           7541 non-null   float64
+ 2   Number of Open Accounts             7541 non-null   float64
+ 3   Years of Credit History             7541 non-null   float64
+ 4   Maximum Open Credit                 7541 non-null   float64
+ 5   Number of Credit Problems           7541 non-null   float64
+ 6   Months since last delinquent        7541 non-null   float64
+ 7   Bankruptcies                        7541 non-null   float64
+ 8   Current Loan Amount                 7541 non-null   float64
+ 9   Current Credit Balance              7541 non-null   float64
+ 10  Monthly Debt                        7541 non-null   float64
+ 11  Credit Score                        7541 non-null   float64
+ 12  Home Ownership_Have Mortgage        7541 non-null   float64
+ 13  Home Ownership_Home Mortgage        7541 non-null   float64
+ 14  Home Ownership_Own Home             7541 non-null   float64
+ 15  Home Ownership_Rent                 7541 non-null   float64
+ 16  Years in current job_1 year         7541 non-null   float64
+ 17  Years in current job_10_plus_years  7541 non-null   float64
+ 18  Years in current job_2 years        7541 non-null   float64
+ 19  Years in current job_3 years        7541 non-null   float64
+ 20  Years in current job_4 years        7541 non-null   float64
+ 21  Years in current job_5 years        7541 non-null   float64
+ 22  Years in current job_6 years        7541 non-null   float64
+ 23  Years in current job_7 years        7541 non-null   float64
+ 24  Years in current job_8 years        7541 non-null   float64
+ 25  Years in current job_9 years        7541 non-null   float64
+ 26  Years in current job__lt_1 year     7541 non-null   float64
+ 27  Purpose_business loan               7541 non-null   float64
+ 28  Purpose_buy a car                   7541 non-null   float64
+ 29  Purpose_buy house                   7541 non-null   float64
+ 30  Purpose_debt consolidation          7541 non-null   float64
+ 31  Purpose_educational expenses        7541 non-null   float64
+ 32  Purpose_home improvements           7541 non-null   float64
+ 33  Purpose_major purchase              7541 non-null   float64
+ 34  Purpose_medical bills               7541 non-null   float64
+ 35  Purpose_moving                      7541 non-null   float64
+ 36  Purpose_other                       7541 non-null   float64
+ 37  Purpose_small business              7541 non-null   float64
+ 38  Purpose_take a trip                 7541 non-null   float64
+ 39  Purpose_vacation                    7541 non-null   float64
+ 40  Purpose_wedding                     7541 non-null   float64
+ 41  Term_Long Term                      7541 non-null   float64
+ 42  Term_Short Term                     7541 non-null   float64
+dtypes: float64(43)
+memory usage: 2.5 MB
+-----results[1]--------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 3233 entries, 0 to 3232
+Data columns (total 43 columns):
+ #   Column                              Non-Null Count  Dtype  
+---  ------                              --------------  -----  
+ 0   Annual Income                       3233 non-null   float64
+ 1   Tax Liens                           3233 non-null   float64
+ 2   Number of Open Accounts             3233 non-null   float64
+ 3   Years of Credit History             3233 non-null   float64
+ 4   Maximum Open Credit                 3233 non-null   float64
+ 5   Number of Credit Problems           3233 non-null   float64
+ 6   Months since last delinquent        3233 non-null   float64
+ 7   Bankruptcies                        3233 non-null   float64
+ 8   Current Loan Amount                 3233 non-null   float64
+ 9   Current Credit Balance              3233 non-null   float64
+ 10  Monthly Debt                        3233 non-null   float64
+ 11  Credit Score                        3233 non-null   float64
+ 12  Home Ownership_Have Mortgage        3233 non-null   float64
+ 13  Home Ownership_Home Mortgage        3233 non-null   float64
+ 14  Home Ownership_Own Home             3233 non-null   float64
+ 15  Home Ownership_Rent                 3233 non-null   float64
+ 16  Years in current job_1 year         3233 non-null   float64
+ 17  Years in current job_10_plus_years  3233 non-null   float64
+ 18  Years in current job_2 years        3233 non-null   float64
+ 19  Years in current job_3 years        3233 non-null   float64
+ 20  Years in current job_4 years        3233 non-null   float64
+ 21  Years in current job_5 years        3233 non-null   float64
+ 22  Years in current job_6 years        3233 non-null   float64
+ 23  Years in current job_7 years        3233 non-null   float64
+ 24  Years in current job_8 years        3233 non-null   float64
+ 25  Years in current job_9 years        3233 non-null   float64
+ 26  Years in current job__lt_1 year     3233 non-null   float64
+ 27  Purpose_business loan               3233 non-null   float64
+ 28  Purpose_buy a car                   3233 non-null   float64
+ 29  Purpose_buy house                   3233 non-null   float64
+ 30  Purpose_debt consolidation          3233 non-null   float64
+ 31  Purpose_educational expenses        3233 non-null   float64
+ 32  Purpose_home improvements           3233 non-null   float64
+ 33  Purpose_major purchase              3233 non-null   float64
+ 34  Purpose_medical bills               3233 non-null   float64
+ 35  Purpose_moving                      3233 non-null   float64
+ 36  Purpose_other                       3233 non-null   float64
+ 37  Purpose_small business              3233 non-null   float64
+ 38  Purpose_take a trip                 3233 non-null   float64
+ 39  Purpose_vacation                    3233 non-null   float64
+ 40  Purpose_wedding                     3233 non-null   float64
+ 41  Term_Long Term                      3233 non-null   float64
+ 42  Term_Short Term                     3233 non-null   float64
+dtypes: float64(43)
+memory usage: 1.1 MB
+-----results[2]--------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 7541 entries, 0 to 7540
+Data columns (total 1 columns):
+ #   Column          Non-Null Count  Dtype  
+---  ------          --------------  -----  
+ 0   Credit Default  7541 non-null   float64
+dtypes: float64(1)
+memory usage: 59.0 KB
+-----results[3]--------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 3233 entries, 0 to 3232
+Data columns (total 1 columns):
+ #   Column          Non-Null Count  Dtype  
+---  ------          --------------  -----  
+ 0   Credit Default  3233 non-null   float64
+dtypes: float64(1)
+memory usage: 25.4 KB
+-----results[4]--------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 2500 entries, 0 to 2499
+Data columns (total 43 columns):
+ #   Column                              Non-Null Count  Dtype  
+---  ------                              --------------  -----  
+ 0   Annual Income                       2500 non-null   float64
+ 1   Tax Liens                           2500 non-null   float64
+ 2   Number of Open Accounts             2500 non-null   float64
+ 3   Years of Credit History             2500 non-null   float64
+ 4   Maximum Open Credit                 2500 non-null   float64
+ 5   Number of Credit Problems           2500 non-null   float64
+ 6   Months since last delinquent        2500 non-null   float64
+ 7   Bankruptcies                        2500 non-null   float64
+ 8   Current Loan Amount                 2500 non-null   float64
+ 9   Current Credit Balance              2500 non-null   float64
+ 10  Monthly Debt                        2500 non-null   float64
+ 11  Credit Score                        2500 non-null   float64
+ 12  Home Ownership_Have Mortgage        2500 non-null   float64
+ 13  Home Ownership_Home Mortgage        2500 non-null   float64
+ 14  Home Ownership_Own Home             2500 non-null   float64
+ 15  Home Ownership_Rent                 2500 non-null   float64
+ 16  Years in current job_1 year         2500 non-null   float64
+ 17  Years in current job_10_plus_years  2500 non-null   float64
+ 18  Years in current job_2 years        2500 non-null   float64
+ 19  Years in current job_3 years        2500 non-null   float64
+ 20  Years in current job_4 years        2500 non-null   float64
+ 21  Years in current job_5 years        2500 non-null   float64
+ 22  Years in current job_6 years        2500 non-null   float64
+ 23  Years in current job_7 years        2500 non-null   float64
+ 24  Years in current job_8 years        2500 non-null   float64
+ 25  Years in current job_9 years        2500 non-null   float64
+ 26  Years in current job__lt_1 year     2500 non-null   float64
+ 27  Purpose_business loan               2500 non-null   float64
+ 28  Purpose_buy a car                   2500 non-null   float64
+ 29  Purpose_buy house                   2500 non-null   float64
+ 30  Purpose_debt consolidation          2500 non-null   float64
+ 31  Purpose_educational expenses        2500 non-null   float64
+ 32  Purpose_home improvements           2500 non-null   float64
+ 33  Purpose_major purchase              2500 non-null   float64
+ 34  Purpose_medical bills               2500 non-null   float64
+ 35  Purpose_moving                      2500 non-null   float64
+ 36  Purpose_other                       2500 non-null   float64
+ 37  Purpose_small business              2500 non-null   float64
+ 38  Purpose_take a trip                 2500 non-null   float64
+ 39  Purpose_vacation                    2500 non-null   float64
+ 40  Purpose_wedding                     2500 non-null   float64
+ 41  Term_Long Term                      2500 non-null   float64
+ 42  Term_Short Term                     2500 non-null   float64
+dtypes: float64(43)
+memory usage: 840.0 KB
